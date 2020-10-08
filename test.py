@@ -1,1 +1,1 @@
-print ("woohoo")
+print ("woo")
